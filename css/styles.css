@@ -458,7 +458,7 @@ img {
   background-color: #2e2f42;
 }
 
-.container {
+.container .footer-social-list {
   display: flex;
   align-items: baseline;
 }
@@ -485,9 +485,7 @@ img {
   color: #fff;
   margin-bottom: 16px;
 }
-.footer-social > .social-list {
-  gap: 16px;
-}
+
 .footer-social-list {
   display: flex;
   justify-content: center;
