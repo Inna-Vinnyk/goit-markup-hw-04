@@ -458,7 +458,7 @@ img {
   background-color: #2e2f42;
 }
 
-.container .footer-social-list {
+.container .footer {
   display: flex;
   align-items: baseline;
 }
